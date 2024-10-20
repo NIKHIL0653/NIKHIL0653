@@ -75,12 +75,10 @@
 
 ###
 
-<img align="right" height="213" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5Z3pveWlueHlpbjJhb3Juc3BpYmE3bzgwZXlmb3dlZWNlazljNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"  />
+<img align="right" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5Z3pveWlueHlpbjJhb3Juc3BpYmE3bzgwZXlmb3dlZWNlazljNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"  />
 
 ###
 
-<div align="left">
-  <img height="213" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03N204YXNidGRvYWcycWo3MjFoaTkxZmFrNHhybnczNWhqM2Y2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmZOBDYBcmWK4/giphy.gif"  />
-</div>
+<img align="left" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm03N204YXNidGRvYWcycWo3MjFoaTkxZmFrNHhybnczNWhqM2Y2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YmZOBDYBcmWK4/giphy.gif"  />
 
 ###
