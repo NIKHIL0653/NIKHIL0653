@@ -3,7 +3,12 @@ Hi<br><br>I am Nikhil Choudhary a 2025 Computer Science graduate from KIIT Unive
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilchoudhary_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-choudhary-0653) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@-nikhil-) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/coderman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nikhil0653) 
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,docker,kubernetes,react,js,git,ts,nodejs,postgres,postman,prisma,supabase,tensorflow,bash&perline=12)](https://skillicons.dev)
