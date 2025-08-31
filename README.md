@@ -14,7 +14,7 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 </a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,docker,kubernetes,react,js,git,ts,nodejs,postgres,postman,prisma,supabase,tensorflow,bash&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,workers,bash,docker,kubernetes,react,js,git,ts,nodejs,tailwind,postgres,postman,prisma,supabase,tensorflow,opencv&perline=12)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
