@@ -3,10 +3,10 @@ Hi<br><br>I am Nikhil Choudhary a 2025 Computer Science graduate from KIIT Unive
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/nikhil-choudhary-0653/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+<a href="https://www.instagram.com/nikhilchoudhary_06/" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
