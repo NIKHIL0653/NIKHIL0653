@@ -1,4 +1,4 @@
-![image]{https://github.com/NIKHIL0653/NIKHIL0653/blob/main/IMG_20250803_094959%20(1).jpg?raw=true}
+![image](https://github.com/NIKHIL0653/NIKHIL0653/blob/main/IMG_20250803_094959%20(1).jpg?raw=true)
 <h1 align="center">👋 Hi, I'm Nikhil</h1>
 
 I am a 2025 Computer Science graduate from KIIT University with a strong foundation in **data analytics, software development, and AI/ML**.  
