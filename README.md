@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi<br><br>I am Nikhil Choudhary a 2025 Computer Science graduate from KIIT University, a results-driven professional <br>with a strong foundation in data analytics, software development, and AI/ML. <br>Experienced in delivering end-to-end solutions including data exploration, predictive modeling, and full-stack web applications. <br>Adept at leveraging tools such as Python, SQL, React, and cloud technologies to transform data into actionable insights and scalable products.
+<h1 align="center">👋 Hi, I'm Nikhil</h1>
+
+I am a 2025 Computer Science graduate from KIIT University with a strong foundation in **data analytics, software development, and AI/ML**.  
+I specialize in building **end-to-end solutions** — from data exploration and predictive modeling to developing **scalable full-stack applications**.  
+Skilled in **Python, SQL, React, and cloud technologies**, I focus on transforming complex data into actionable insights and impactful digital products.
 
 
 ## 🌐 Socials:
