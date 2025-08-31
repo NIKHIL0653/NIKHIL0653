@@ -14,8 +14,6 @@ Hi<br><br>I am Nikhil Choudhary a 2025 Computer Science graduate from KIIT Unive
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,docker,kubernetes,react,js,git,ts,nodejs,postgres,postman,prisma,supabase,tensorflow,bash&perline=12)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NIKHIL0653&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NIKHIL0653&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NIKHIL0653&icon=2&color=0)](https://visitcount.itsvg.in)
