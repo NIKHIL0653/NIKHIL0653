@@ -17,12 +17,17 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,workers,bash,docker,kubernetes,react,js,git,ts,nodejs,tailwind,postgres,postman,prisma,supabase,tensorflow,opencv&perline=12)](https://skillicons.dev)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NIKHIL0653&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+## ⚡ Github Stats  
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL0653&theme=blueberry&count_private=true&hide_border=true&line_height=20" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NIKHIL0653&icon=2&color=0)](https://visitcount.itsvg.in)
