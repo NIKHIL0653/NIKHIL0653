@@ -10,8 +10,8 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 <a href="https://www.linkedin.com/in/nikhil-choudhary-0653/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/nikhilchoudhary_06/" target="blank">
-<img src="https://skillicons.dev/icons?i=x" alt="X" />
+<a href="https://x.com/Nikhil0653" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter" alt="X" />
 </a>
 
 # 💻 Tech Stack:
