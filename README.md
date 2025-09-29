@@ -21,9 +21,6 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL0653&theme=blueberry&count_private=true&hide_border=true&line_height=20" />
-  </a>
-  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
   </a>
 </p>
