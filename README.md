@@ -25,6 +25,8 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
   </a>
 </p>
 
+[![@nikhil0653's Holopin board](https://holopin.io/api/user/board?user=nikhil0653)](https://www.holopin.io/@nikhil0653)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NIKHIL0653&icon=2&color=0)](https://visitcount.itsvg.in)
