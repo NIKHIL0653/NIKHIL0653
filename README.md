@@ -23,6 +23,7 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 | --- | --- |
 | <a href="#"><img src="https://streak-stats.demolab.com?user=NIKHIL0653&theme=blueberry&hide_border=true" alt="GitHub Streak"/></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages"/></a> |
 
+## Open Source Achievements
 
 [![@nikhil0653's Holopin board](https://holopin.io/api/user/board?user=nikhil0653)](https://www.holopin.io/@nikhil0653)
 
