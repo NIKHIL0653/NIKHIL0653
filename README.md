@@ -17,15 +17,12 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,py,linux,aws,gcp,workers,bash,docker,kubernetes,react,js,git,ts,nodejs,tailwind,postgres,postman,prisma,supabase,tensorflow,opencv&perline=12)](https://skillicons.dev)
 
-## ⚡ Github Stats  
+## ⚡ GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NIKHIL0653&theme=dark)](https://git.io/streak-stats)
+| Streak | Stats |
+| --- | --- |
+| <a href="#"><img src="https://streak-stats.demolab.com?user=NIKHIL0653&theme=blueberry&hide_border=true" alt="GitHub Streak"/></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NIKHIL0653&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide_border=true" alt="GitHub Stats"/></a> |
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
-  </a>
-</p>
 
 [![@nikhil0653's Holopin board](https://holopin.io/api/user/board?user=nikhil0653)](https://www.holopin.io/@nikhil0653)
 
