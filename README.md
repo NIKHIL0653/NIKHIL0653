@@ -19,6 +19,8 @@ Skilled in **Python, SQL, React, and cloud technologies**, I focus on transformi
 
 ## ⚡ Github Stats  
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NIKHIL0653&theme=dark)](https://git.io/streak-stats)
+
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL0653&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
